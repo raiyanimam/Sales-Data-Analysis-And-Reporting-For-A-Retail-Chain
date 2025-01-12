@@ -1,6 +1,4 @@
-Sales Data Analysis And Reporting For A Retail Chain
-
-### Note on the Project: Sales Data Analysis and Reporting for a Retail Chain
+### Project: Sales Data Analysis and Reporting for a Retail Chain
 
 #### **Objective**
 The project focuses on analyzing sales data to generate meaningful insights and reports for a retail chain, aiming to optimize performance and customer engagement strategies.
